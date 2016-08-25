@@ -27,6 +27,5 @@ public class AirlineUniqueNumber {
 	public String toString() {
 		return airlineName+airlineNum;
 		
-	}
-	
+	}	
 }
